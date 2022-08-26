@@ -1,0 +1,22 @@
+.container{
+    display: flex;
+    flex-direction: column;
+}
+
+body {
+    background-image: linear-gradient(to right , #cb2d3e , #ef473a);
+}
+
+.input-group{
+    width: 80rem !important;
+    height: 4rem !important;
+    font-size: 1rem !important;
+}
+
+i{
+    width: 7rem !important;
+}
+
+::placeholder{
+    font-size: 2em;
+}

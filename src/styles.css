@@ -1,1 +1,26 @@
-/* You can add global styles to this file, and also import other style files */
+
+html{
+	font-size:62.5%;          /*Hacemos que 1rem sea equivalente a 10px*/
+
+}
+
+.nav-logo{
+    width: 19rem;
+    height: 9rem;
+}
+
+.footer-logo{
+    width: 20rem;
+    height: 17rem;
+}
+
+.accent-color{
+    color: #2A56C9;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
